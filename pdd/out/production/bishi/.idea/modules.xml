@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bishi/alibaba/alibaba.iml" filepath="$PROJECT_DIR$/bishi/alibaba/alibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bishi/baidu/baidu.iml" filepath="$PROJECT_DIR$/bishi/baidu/baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bishi.iml" filepath="$PROJECT_DIR$/bishi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bishi/mayi/mayi.iml" filepath="$PROJECT_DIR$/bishi/mayi/mayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bishi/mihayou/mihayou.iml" filepath="$PROJECT_DIR$/bishi/mihayou/mihayou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bishi/pdd/pdd.iml" filepath="$PROJECT_DIR$/bishi/pdd/pdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bishi/tengxunMusic/tengxunMusic.iml" filepath="$PROJECT_DIR$/bishi/tengxunMusic/tengxunMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bishi/zhaohang/zhaohang.iml" filepath="$PROJECT_DIR$/bishi/zhaohang/zhaohang.iml" />
+    </modules>
+  </component>
+</project>

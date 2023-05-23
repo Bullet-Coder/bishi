@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/bishi/meituan/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bishi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/javaLearning/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/case_java7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/case_java8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/case_monitor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/case_thirdpart/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/case_tomcat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/jcstress_ordering/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/jmh_eliminate_locks/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/jmh_performance/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/javaLearning/out" />
+      <excludeFolder url="file://$MODULE_DIR$/leetcode/out" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrent/case_monitor/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrent/case_java8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrent/case_java7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrent/case_thirdpart/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrent/case_tomcat/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrent/jcstress_ordering/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrent/jmh_eliminate_locks/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concurrent/jmh_performance/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
